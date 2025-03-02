@@ -1,9 +1,9 @@
 # 🌍 Proyecto Colaborativo Web  
 > **Trabajo práctico de Git y GitHub**  
 
-📌 **Autor:** [Tu Nombre]  
-📅 **Fecha:** $(date)  
-📁 **Repositorio:** [Enlace al repositorio](https://github.com/usuario/repositorio)  
+📌 **Autor:** Raúl Gamallo García 
+📅 **Fecha:** 02/03/2025 
+📁 **Repositorio:** [Enlace al repositorio](https://github.com/raulgamallo/FinalGit)  
 
 ---
 
@@ -18,10 +18,10 @@ Este proyecto consiste en la creación de un sitio web colaborativo utilizando *
 
 📂 **Estructura del proyecto:**  
 ```bash
-ProyectoWeb/
+FinalGit/
 ├── index.html
 ├── css/
-│   └── estilos.css
+│   └── style.css
 ├── javascript/
-│   └── mijava.js
+│   └── script.js
 └── README.md
