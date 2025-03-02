@@ -1,0 +1,9 @@
+:root {
+    --color-soso: pink;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
