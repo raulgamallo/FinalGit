@@ -7,3 +7,13 @@
     margin: 0;
     padding: 0;
 }
+
+
+div{
+    background-color: aqua;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
